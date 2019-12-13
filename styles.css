@@ -1,0 +1,56 @@
+body {
+    background-image: url("http://getwallpapers.com/wallpaper/full/9/3/b/449678.jpg");
+    font-family: 'Courgette', cursive;
+    text-align: center;
+}
+.perant4 {
+    display: flex;
+    justify-content: flex-end;
+}
+.parent1 {
+    color: #1A6B10;
+    background: #CA9975;
+    background-size: 50px;
+}
+.parent3 {
+    display: flex;
+    justify-content: center;
+}
+
+
+.parent2 {
+    display: flex;
+    justify-content: center;
+}
+
+.grandchild1 {
+    background-color: #CB3CE7;
+    color: #9CCEC4;
+    background-size: 70px;
+}
+.grandchild2 {
+    background-size: 20px;
+    color: #FF5733;
+    width: 300px;
+    height: 100px;
+    border: 1px solid #0560CD;
+}
+.grandchild3 {
+    background-color: #C32A01;
+    background-size: 70px;
+    color: #01C2C3;
+    width: 300px;
+    height: 100px;
+    border: 1px solid #0560CD;
+}
+
+
+
+
+
+
+
+
+
+
+
